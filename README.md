@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @williamgitdev
 - 👀 I’m interested in all about .NET
-- 🌱 I’m currently learning C++ and improving in .NET
 - 📫 How to reach me williamgitdev@hotmail.com
 
 <!---
